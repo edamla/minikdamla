@@ -1,2 +1,1 @@
-# minikdamla
-minikdamla.com
+# Bookstore Jekyll Theme
