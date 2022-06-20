@@ -82,12 +82,6 @@ defaults:
     values:
       layout: education
 
-  # all concepts
-  - scope:
-      type: "concepts"
-      path: "_concepts"
-    values:
-      layout: concept
 
   # all slides
   - scope:
@@ -102,7 +96,7 @@ highlighter: rouge
 feed:
   collections:
     books:
-      path: "/kitaplar/feed.xml"
+      path: "/hikayeler/feed.xml"
     educations:
       path: "/egitim/feed.xml"
 
