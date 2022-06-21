@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Jekyll Start";
-bundle exec jekyll serve --port 80;
+bundle exec jekyll serve;
