@@ -1,8 +1,8 @@
 ---
 order: 2
-title:  "Kavram Aktivite Kitaplarım"
-img: "assets/images/slides/2.jpg"
-mobile-img: "assets/images/slides/2m.jpg"
-href: "egitim/zit-kavramlar-aktivite-kitabim"
+title:  "Dikkat Zeka Hafıza Gelişim Seti"
+img: "assets/images/slides/1.jpg"
+mobile-img: "assets/images/slides/1m.jpg"
+href: "egitim/dikkat-zeka-gelistirme-seti"
 target: "" # _blank
 ---

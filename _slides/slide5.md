@@ -1,8 +1,8 @@
 ---
 order: 5
-title:  "Ponpon Pinpin Eğitim Seti"
-img: "assets/images/slides/5.jpg"
-mobile-img: "assets/images/slides/5m.jpg"
-href: "egitim/ponpon-pinpin-egitim-seti"
+title:  "Minik Damlalar Eğitim Seti"
+img: "assets/images/slides/4.jpg"
+mobile-img: "assets/images/slides/4m.jpg"
+href: "egitim/minik-damla-egitim-seti"
 target: "" # _blank
 ---
