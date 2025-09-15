@@ -144,7 +144,7 @@ Böylece bu yaş grubunundaki çocuklarımız, en sevdiği çıkartmalı etkinli
 </div>
 </div>
 
-<img src="/assets/images/educations/ponpon-pinpin/sinif-promosyonlari-yazi.png" alt="">
+--><img src="/assets/images/educations/ponpon-pinpin/sinif-promosyonlari-yazi.png" alt="">
 
 <div class="container">
   <div class="row">
