@@ -13,7 +13,7 @@ tags: [ "hikaye"]
 previewpage: true
 
 # Book attributes
-ean: 9786059656702
+#ean: 9786059656702
 languages: ["Türkçe"]
 page: 256 Sayfa
 size: "24x32cm"
