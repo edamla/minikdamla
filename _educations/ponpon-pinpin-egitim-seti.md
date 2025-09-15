@@ -11,7 +11,6 @@ image: assets/images/ean/9786059656702.png
 categories: [ "Yardımcı Ders Kitabı" ]
 tags: [ "hikaye"]
 previewpage: true
-youtube: "3YR6su85TxA"
 
 # Book attributes
 ean: 9786059656702
