@@ -24,7 +24,7 @@ cover: "Karton Kapak"
 # For adding excerpt add <!--more--> and break the line
 ---
 <!--more--> 
-<iframe src="https://www.youtube.com/embed/3YR6su85TxA?rel=0&amp;enablejsapi=1&amp;wmode=opaque" width="90%" height="360px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<!--<iframe src="https://www.youtube.com/embed/3YR6su85TxA?rel=0&amp;enablejsapi=1&amp;wmode=opaque" width="90%" height="360px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <img src="/assets/images/educations/ponpon-pinpin/ponpon-pinpin-resim-yazi.jpg" alt="">
 
 <div class="container">
